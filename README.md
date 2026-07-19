@@ -11,7 +11,7 @@ A desktop application for regression analysis and curve fitting, built with Pyth
 
 ## Download
 
-If you just want to use the app, grab the latest `.exe` from the [Releases](https://github.com/tu-usuario/reganalyzer/releases) page, no need to install Python or any dependencies.
+If you just want to use the app, grab the latest `.exe` from the [Releases](https://github.com/AndresPR512/College-Estadistica-RegAnalyzer/releases/tag/1.0.0) page, no need to install Python or any dependencies.
 
 ## Requirements (for running from source)
 
@@ -23,7 +23,7 @@ If you just want to use the app, grab the latest `.exe` from the [Releases](http
 Clone the repository:
 
 ```
-git clone https://github.com/tu-usuario/reganalyzer.git
+git clone https://github.com/AndresPR512/College-Estadistica-RegAnalyzer.git
 cd reganalyzer
 ```
 
@@ -39,20 +39,6 @@ Run the application from the project root:
 
 ```
 python main.py
-```
-
-## Project structure
-
-```
-reganalyzer/
-├── main.py
-├── gui/
-│   └── app.py
-├── assets/
-│   └── icons/
-│       └── reganalyzer_icon.ico
-├── requirements.txt
-└── README.md
 ```
 
 ## Building the executable (.exe)
